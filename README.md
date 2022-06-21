@@ -14,6 +14,8 @@
 
 ## Usage
 
+> npm install cqupt-stu-system-fetch
+
 ~~~ts
 import { fetchLessonSchedule, LessonScheduleData, fetchLessonStuList, LessonStuData } from 'cqupt-stu-system-fetch';
 
