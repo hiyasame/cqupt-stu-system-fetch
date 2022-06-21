@@ -1,6 +1,6 @@
 {
   "name": "cqupt-stu-system-fetch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fetch student infomation from cqupt-stu-system",
   "main": "./dist/index.js",
   "scripts": {

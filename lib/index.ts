@@ -1,3 +1,4 @@
 import { LessonScheduleData, fetchLessonSchedule } from "./lesson-schedule"
+import { LessonStuData, fetchLessonStuList } from "./lesson-stu-list"
 
-export { LessonScheduleData, fetchLessonSchedule }
+export { LessonScheduleData, fetchLessonSchedule, LessonStuData, fetchLessonStuList }
